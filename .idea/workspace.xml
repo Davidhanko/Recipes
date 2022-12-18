@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17154c83-62f4-40ec-96c8-9a5c22f248ee" name="Changes" comment="Making production ready">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="17154c83-62f4-40ec-96c8-9a5c22f248ee" name="Changes" comment="Making production ready" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671352499239</updated>
       <workItem from="1671352500198" duration="5000" />
-      <workItem from="1671364694524" duration="1548000" />
+      <workItem from="1671364694524" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="Making production ready">
       <created>1671364746811</created>
@@ -76,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671365653125</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Making production ready">
+      <created>1671367204422</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671367204422</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Making production ready">
+      <created>1671367362659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671367362659</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
